@@ -1,0 +1,24 @@
+form{
+    background-color: maroon;
+     width:60%;
+    height: 100%;
+    margin: auto;
+    padding: 40px;
+    padding-left: 50px;
+}
+button {
+
+    width: 70%;
+    height: 50px;
+   font-size: larger;
+    font-weight: bold;
+}
+#about{
+    height: 50px;
+}
+
+label{
+    float: left;
+    text-align: left;
+    width: 20%;
+}

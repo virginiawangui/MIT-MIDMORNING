@@ -1,0 +1,39 @@
+form{
+    background-color: aqua;
+     width:60%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    padding-left: 50px;
+}
+
+legend{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin: auto;
+
+}
+
+button1{
+    background-color: darkgreen;
+    width: 100px;
+    height: 80px;
+    margin-left: 150px;
+}
+button2{
+    background-color: blueviolet;
+     width: 100px;
+    height: 80px;
+    margin-left: 150px;
+}
+
+#about{
+    height: 50px;
+}
+
+label{
+    float: left;
+    text-align: left;
+    width: 20%;
+}

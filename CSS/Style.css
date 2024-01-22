@@ -1,0 +1,32 @@
+p {
+    font-size: 20px;
+    background-color: bisque;
+    font-weight: bold;
+}
+img{
+    height: 50px;
+    width: 60px;
+}
+
+
+
+
+
+div{
+    background-color: cadetblue;
+    padding-left: 30px;
+    margin-right: 50px;
+}
+.division1{
+    background-color: aqua;
+
+}
+.division2{
+    background-color: burlywood;
+}
+#main{
+    background-color: #bede87;
+    display: flex;
+    padding: 30px;
+}
+.imageparagraph
